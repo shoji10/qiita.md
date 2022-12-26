@@ -27,7 +27,7 @@
 ### 外部サイトのコードを参考にする
 東京大学 数理・情報教育研究センターが公開しているPythonプログラミング入門  
 というサイトを使用しています。  
-<a href='https://utokyo-ipp.github.io/index.html#' target='_blank'>こちら</a>
+<a href='https://utokyo-ipp.github.io/index.html#' target='_blank'>こちら</a>  
 知識ゼロからでもステップを踏んで学習できます。  
 ここでサンプルで書かれているコードの書き方も参考にするといいと思います。  
 ```
